@@ -1,8 +1,7 @@
 # tiktok-comment-automation-engagement
 
-This project offers a comprehensive TikTok comment automation solution designed to interact with specific videos, automatically reply to comments, and schedule new comments with customizable and randomized messages. Running on real Android devices via the Appilot framework, this tool ensures safe and natural activity that avoids detection.
+This project automates TikTok comment interactions, replies, and scheduling with customizable, randomized messages, running on real Android devices via Appilot. It improves engagement across multiple accounts, ensuring security with rate limits, proxies, and SIM card rotation, while avoiding detection.
 
-It solves the problem of manual engagement on TikTok, allowing users to automate comment interactions across multiple accounts, implement rate limits, and manage proxies and SIM cards for anonymity and security. This automation system helps improve engagement and visibility without risking account bans.
 <p align="center">
   <a href="https://Appilot.app" target="_blank"><img src="https://github.com/Instagram-Automations/Footer-test/blob/main/appilot-baner.png" alt="Appilot Banner" width="100%"></a>
 </p>
