@@ -13,7 +13,7 @@ This project automates TikTok comment interactions, replies, and scheduling with
 </p>
 <p align="center">
 Created by Appilot, built to showcase our approach to Automation! <br>
-If you are looking for custom <strong>  </strong>, you've just found your team — Let’s Chat.&#128070; &#128070;
+If you are looking for custom tiktok comment automation engagement<strong>  </strong>, you've just found your team — Let’s Chat.&#128070; &#128070;
 </p>
   
 ## Introduction
